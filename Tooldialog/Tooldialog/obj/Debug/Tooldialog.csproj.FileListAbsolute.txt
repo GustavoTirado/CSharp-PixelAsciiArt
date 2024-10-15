@@ -1,0 +1,10 @@
+C:\Users\gustavo_tirado\source\repos\Tooldialog\Tooldialog\obj\Debug\Tooldialog.csproj.AssemblyReference.cache
+C:\Users\gustavo_tirado\source\repos\Tooldialog\Tooldialog\obj\Debug\Tooldialog.Form1.resources
+C:\Users\gustavo_tirado\source\repos\Tooldialog\Tooldialog\obj\Debug\Tooldialog.Properties.Resources.resources
+C:\Users\gustavo_tirado\source\repos\Tooldialog\Tooldialog\obj\Debug\Tooldialog.csproj.GenerateResource.cache
+C:\Users\gustavo_tirado\source\repos\Tooldialog\Tooldialog\obj\Debug\Tooldialog.csproj.CoreCompileInputs.cache
+C:\Users\gustavo_tirado\source\repos\Tooldialog\Tooldialog\bin\Debug\Tooldialog.exe.config
+C:\Users\gustavo_tirado\source\repos\Tooldialog\Tooldialog\bin\Debug\Tooldialog.exe
+C:\Users\gustavo_tirado\source\repos\Tooldialog\Tooldialog\bin\Debug\Tooldialog.pdb
+C:\Users\gustavo_tirado\source\repos\Tooldialog\Tooldialog\obj\Debug\Tooldialog.exe
+C:\Users\gustavo_tirado\source\repos\Tooldialog\Tooldialog\obj\Debug\Tooldialog.pdb
